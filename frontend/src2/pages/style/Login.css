@@ -1,0 +1,115 @@
+.Login_Box{
+    background-color: red;
+}
+.social_login{
+    width: 350px;
+    height: 45px;
+    background-color: #4267B2;
+    transform: translateX(3%);
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 13px;
+    padding-top: 10px;    
+    color: white;
+    font-weight: 600;
+}
+.social_login:hover{
+    width: 350px;
+    height: 45px;
+    background-color: #103d96;
+    transform: translateX(3%);
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 13px;
+    padding-top: 10px;    
+    color: white;
+    font-weight: 600;
+}
+.social_login1{
+    width: 350px;
+    height: 45px;
+    background-color: white;
+    transform: translateX(3%);
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 15px;
+    padding-top: 10px;   
+    border: 1px solid#babbbd;
+    color: #7A7D85
+}
+.social_login1:hover{
+    width: 350px;
+    height: 45px;
+    background-color: #FAFAFA;
+    transform: translateX(3%);
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 15px;
+    padding-top: 10px;   
+    border: 1px solid#babbbd;
+}
+.hrDiv{
+    height: 1.5px;
+    width: 146px;
+    background-color: #babbbd;
+    transform: translateY(11px);
+}
+.orSect{
+    display: flex;
+    text-align: center;
+}
+.form_Data input{
+    width: 350px;
+    height: 45px;
+    background-color: white;
+    transform: translateX(3%);
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 13px;
+    padding-top: 10px;   
+    border: 1px solid#babbbd;
+    text-align: left;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    margin-top: 18px;
+}
+.form_Data button{
+    width: 350px;
+    height: 45px;
+    background-color: #1DBF73;
+    transform: translateX(3%);
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 13px;
+    padding-top: 10px;   
+    border: 1px solid#babbbd;
+    font-size: 1em;
+    font-weight: 600;
+    color: white;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    margin-top: 6px;
+
+}
+.form_Data button:hover{
+    
+    background-color: #098a4e;   
+}
+.p_CSS{
+    text-align: center;
+    font-weight: 400;
+    color: #7A7D85;
+}
+.dox_bottom{
+    height: 45px;
+    width: 430px;
+    background-color: red;
+    
+}
+.hrDiv2{
+    height: 1.5px;
+    width: 430px;
+    background-color: #babbbd;
+    transform: translateX(-28px);
+    margin-top: 25px;
+}

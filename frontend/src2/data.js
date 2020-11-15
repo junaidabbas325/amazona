@@ -73,7 +73,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '1',
+            _id: '7',
             name: 'Nike Slim Shirt',
             category: "Shirts",
             image: '/images/p1.jpg',
@@ -85,7 +85,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '2',
+            _id: '8',
             name: 'Adidas Fit Shirt',
             category: "Shirts",
             image: '/images/p2.jpg',
@@ -97,7 +97,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '3',
+            _id: '9',
             name: 'Lascoste Free Shirt',
             category: "Shirts",
             image: '/images/p3.jpg',
@@ -109,7 +109,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '4',
+            _id: '10',
             name: 'Nike Slim Pant',
             category: "Pants",
             image: '/images/p4.jpg',
@@ -121,7 +121,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '5',
+            _id: '11',
             name: 'Puma Slim Pant',
             category: "Pant",
             image: '/images/p5.jpg',
@@ -133,7 +133,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '6',
+            _id: '12',
             name: 'Adidas Fit Pant',
             category: "Pants",
             image: '/images/p6.jpg',
@@ -145,7 +145,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '1',
+            _id: '13',
             name: 'Nike Slim Shirt',
             category: "Shirts",
             image: '/images/p1.jpg',
@@ -157,7 +157,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '2',
+            _id: '14',
             name: 'Adidas Fit Shirt',
             category: "Shirts",
             image: '/images/p2.jpg',
@@ -169,7 +169,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '3',
+            _id: '15',
             name: 'Lascoste Free Shirt',
             category: "Shirts",
             image: '/images/p3.jpg',
@@ -181,7 +181,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '4',
+            _id: '16',
             name: 'Nike Slim Pant',
             category: "Pants",
             image: '/images/p4.jpg',
@@ -193,7 +193,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '5',
+            _id: '17',
             name: 'Puma Slim Pant',
             category: "Pant",
             image: '/images/p5.jpg',
@@ -205,7 +205,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '6',
+            _id: '18',
             name: 'Adidas Fit Pant',
             category: "Pants",
             image: '/images/p6.jpg',
@@ -217,7 +217,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '1',
+            _id: '19',
             name: 'Nike Slim Shirt',
             category: "Shirts",
             image: '/images/p1.jpg',
@@ -229,7 +229,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '2',
+            _id: '20',
             name: 'Adidas Fit Shirt',
             category: "Shirts",
             image: '/images/p2.jpg',
@@ -241,7 +241,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '3',
+            _id: '21',
             name: 'Lascoste Free Shirt',
             category: "Shirts",
             image: '/images/p3.jpg',
@@ -253,7 +253,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '4',
+            _id: '22',
             name: 'Nike Slim Pant',
             category: "Pants",
             image: '/images/p4.jpg',
@@ -265,7 +265,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '5',
+            _id: '23',
             name: 'Puma Slim Pant',
             category: "Pant",
             image: '/images/p5.jpg',
@@ -277,7 +277,7 @@ export const data = {
             description:'high quality proudcts',            
         },
         {
-            _id: '6',
+            _id: '24',
             name: 'Adidas Fit Pant',
             category: "Pants",
             image: '/images/p6.jpg',
