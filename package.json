@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/junaidabbas325/amazona#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "bootstrap": "^4.5.3",
     "express": "^4.17.1",
+    "mongoose": "^5.10.14",
     "react-bootstrap": "^1.4.0"
   },
   "devDependencies": {
