@@ -4,7 +4,7 @@ import Mongoose from 'mongoose';
 import userRouter from './routers/userRouter.js'
 
 const app = express();
-Mongoose.connect('mongodb://localhost/amazona', {
+Mongoose.connect(process.env.MONGOOSEDB_URL || 'mongodb://localhost/amazona', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
@@ -22,7 +22,9 @@ app.get('/api/products/:id', (req, res) => {
     res.send(product)
 })
 app.use('/api/users', userRouter);
-
+app.use((err, req, res, next) => {
+    res.status(500).send({message: err.message})
+})
 const port = process.env.port || 5000
 app.listen(5000, ()=>{
     console.log(`its workin on ${port}` )
