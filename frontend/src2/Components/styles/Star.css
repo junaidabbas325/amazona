@@ -1,9 +1,0 @@
-.ratingREF ul{
-    display: flex;
-    float: left;
-}
-.ratingREF ul li{
-    list-style: none;
-    font-size: 1.7em;
-    color: #c2c515
-}

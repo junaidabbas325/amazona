@@ -1,0 +1,8 @@
+.reviews h2{
+    color: black;
+    font-size: 1.5em;
+    margin-right: 5px;
+}
+.reviews .activeStars{
+    color: red;
+}

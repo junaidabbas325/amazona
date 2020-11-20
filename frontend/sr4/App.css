@@ -1,0 +1,57 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.box{
+  Width: auto;
+height: 40px;
+background-color: rgb(3, 3, 3);
+color: rgb(255, 255, 255);
+
+}
+.logo{
+  font-family: Arial, Helvetica;
+font-size: 1.1em;
+font-weight: 100;
+padding-top: 10px;
+float: left;
+margin-left: 20px;
+}
+.box a{
+  color: white;
+}
+.logo:hover{
+color: red;
+}
+.menu{
+  font-family: Arial, Helvetica;
+font-size: 1em;
+font-weight: 100;
+padding-top: 10px;
+float: right;
+margin-right: 20px;
+}
+.menu ul{
+display: flex;
+list-style: none;
+}
+.menu ul li{
+margin-left: 15px;
+color: white;
+width: 60px;
+text-align: center;
+cursor: pointer;
+}
+.menu ul li:hover{
+  color: red;
+  }
+  .reviews h2{
+    color: black;
+    font-size: 1.5em;
+    margin-right: 5px;
+}
+.reviews .activeStars{
+    color: red;
+}
